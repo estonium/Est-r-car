@@ -1,4 +1,4 @@
-# Week 1 – Project Start
+# Week 0(pre-approval) – Project Start
 ### Defining the project
 ## What is Est(r)car?
 Est(r)car is a remote control car built from scratch. The goal is to learn electronics, motor control, and embedded systems by designing and assembling all the hardware and software components.
