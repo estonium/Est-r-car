@@ -17,4 +17,3 @@ This project is developed as part of **Hack Club Blueprint**.
 ## Project Status
 🛠️ In progress
 
-## Repository Structure
